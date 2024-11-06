@@ -41,7 +41,7 @@
 #     print(name)
 
 # for i in range (20):
-#     if i%2 = 0:
+#     if i%2 == 0:
 #         print(i)
 
 # WHILE LOOP: It's used to repeat a block of code until a certain condition is met
@@ -58,14 +58,20 @@
 
 
 # BREAK: It's used to exit a loop
-for i in range (5):
-    if i == 3:
-        print(i)
-        break
+# for i in range (5):
+#     if i == 3:
+#         print(i)
+#         break
 
-for i in range (5):
-    print(i)
-    if i == 3:
-        break
+# for i in range (5):
+#     print(i)
+#     if i == 3:
+#         break
 
 # CONTINUE: It's used to skip the rest of the code in a loop and start the next iteration
+# for i in [0,1,2,"skip me",3,4]:
+#     if i == "skip me":
+#         continue
+#     print(i)
+
+# EXPRESSION: 
