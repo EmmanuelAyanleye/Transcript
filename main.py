@@ -74,4 +74,14 @@
 #         continue
 #     print(i)
 
-# EXPRESSION: 
+# EXPRESSION: is the combination of variables, values, and operators that produce a result
+# Pass statement do nothing, it can be used when the statement is syntaxtically
+# for i in range (20):
+#     pass
+
+# SWITCH CASE
+score = 90;
+if score <50:
+    print("F")
+elif score >49 and score < 60:
+    print("D")
